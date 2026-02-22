@@ -16,7 +16,7 @@ A responsive and stylish **Admin Dashboard UI** built purely with **HTML, CSS, a
 ## 📁 Folder Structure
 
 ```
-Admin Panel/
+Admin-Panel-Fresh/
 ├── css/           # All stylesheets
 ├── fonts/         # Custom icon fonts or typefaces
 ├── js/            # JavaScript logic
