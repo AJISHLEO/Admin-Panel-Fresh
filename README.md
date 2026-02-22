@@ -5,7 +5,7 @@ A responsive and stylish **Admin Dashboard UI** built purely with **HTML, CSS, a
 
 
 ## Admin Panel Preview  
-<a href="https://ajishleo.github.io/Admin-Panel/" target="_blank">
+<a href="https://ajishleo.github.io/Admin-Panel-Fresh/" target="_blank">
   <img src="https://drive.google.com/uc?export=view&id=1ZUsRJWklAZgniY9-zH6P8IhsbeUAa-yf" width="150" alt="Admin Panel Preview" /> 
    <br>🔗Click Here
 </a>
@@ -53,7 +53,7 @@ Admin Panel/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ajishleo/Admin-Panel.git
+   git clone https://github.com/ajishleo/Admin-Panel-Fresh.git
    ```
 
 2. **Open in your browser**
